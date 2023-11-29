@@ -1,0 +1,15 @@
+
+div{
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.reloj, .tiempo{
+    color: rgb(31, 103, 167);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
